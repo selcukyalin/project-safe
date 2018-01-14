@@ -1,0 +1,1 @@
+<?php $isetdizin = "404"; ?>
